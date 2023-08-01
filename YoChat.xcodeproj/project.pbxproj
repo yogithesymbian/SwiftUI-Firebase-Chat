@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FD25A98F2A789F0F00CA06D1 /* YoChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD25A98E2A789F0F00CA06D1 /* YoChatApp.swift */; };
-		FD25A9912A789F0F00CA06D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD25A9902A789F0F00CA06D1 /* ContentView.swift */; };
+		FD25A9912A789F0F00CA06D1 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD25A9902A789F0F00CA06D1 /* LoginView.swift */; };
 		FD25A9932A789F1000CA06D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD25A9922A789F1000CA06D1 /* Assets.xcassets */; };
 		FD25A9962A789F1000CA06D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD25A9952A789F1000CA06D1 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		FD25A98B2A789F0F00CA06D1 /* YoChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD25A98E2A789F0F00CA06D1 /* YoChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoChatApp.swift; sourceTree = "<group>"; };
-		FD25A9902A789F0F00CA06D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FD25A9902A789F0F00CA06D1 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		FD25A9922A789F1000CA06D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD25A9952A789F1000CA06D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				FD25A98E2A789F0F00CA06D1 /* YoChatApp.swift */,
-				FD25A9902A789F0F00CA06D1 /* ContentView.swift */,
+				FD25A9902A789F0F00CA06D1 /* LoginView.swift */,
 				FD25A9922A789F1000CA06D1 /* Assets.xcassets */,
 				FD25A9942A789F1000CA06D1 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD25A9912A789F0F00CA06D1 /* ContentView.swift in Sources */,
+				FD25A9912A789F0F00CA06D1 /* LoginView.swift in Sources */,
 				FD25A98F2A789F0F00CA06D1 /* YoChatApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
