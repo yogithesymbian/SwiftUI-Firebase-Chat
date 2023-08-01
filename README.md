@@ -70,4 +70,4 @@ Special thanks to [LBTA](link_to_tutorial_or_source) for providing guidance and 
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at yogiarifwidodo@icloud.com.
+For any questions or suggestions, feel free to contact me at yogiarifwidodo@icloud.com | Yogi Arif Widodo.
